@@ -1,0 +1,31 @@
+M:\Final Project\CommunityAdministration\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+M:\Final Project\CommunityAdministration\DataAccess\bin\Debug\net6.0\DataAccess.dll
+M:\Final Project\CommunityAdministration\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+M:\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+M:\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+M:\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+M:\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+M:\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+M:\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\DataAccess.dll
+M:\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+M:\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+M:\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+M:\Final Project\CommunityAdministration\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+M:\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+E:\FINAL PROJECT\Final Project\CommunityAdministration\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\FINAL PROJECT\Final Project\CommunityAdministration\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+E:\FINAL PROJECT\Final Project\CommunityAdministration\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\FINAL PROJECT\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\FINAL PROJECT\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\FINAL PROJECT\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\FINAL PROJECT\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\FINAL PROJECT\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\FINAL PROJECT\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\FINAL PROJECT\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+E:\FINAL PROJECT\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+F:\FINAL PROJECT\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\DataAccess.dll
+F:\FINAL PROJECT\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+F:\FINAL PROJECT\Final Project\CommunityAdministration\DataAccess\obj\Debug\net6.0\DataAccess.pdb

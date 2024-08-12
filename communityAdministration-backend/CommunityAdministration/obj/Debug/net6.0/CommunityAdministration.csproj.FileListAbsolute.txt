@@ -1,0 +1,149 @@
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\appsettings.Development.json
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\appsettings.json
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\CommunityAdministration.exe
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\CommunityAdministration.deps.json
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\CommunityAdministration.runtimeconfig.json
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\CommunityAdministration.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\CommunityAdministration.pdb
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.csproj.AssemblyReference.cache
+M:\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.GeneratedMSBuildEditorConfig.editorconfig
+M:\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.AssemblyInfoInputs.cache
+M:\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.AssemblyInfo.cs
+M:\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.csproj.CoreCompileInputs.cache
+M:\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.MvcApplicationPartsAssemblyInfo.cs
+M:\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.MvcApplicationPartsAssemblyInfo.cache
+M:\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\staticwebassets\msbuild.CommunityAdministration.Microsoft.AspNetCore.StaticWebAssets.props
+M:\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\staticwebassets\msbuild.build.CommunityAdministration.props
+M:\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CommunityAdministration.props
+M:\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CommunityAdministration.props
+M:\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\staticwebassets.pack.json
+M:\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\staticwebassets.build.json
+M:\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\staticwebassets.development.json
+M:\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\scopedcss\bundle\CommunityAdministration.styles.css
+M:\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.csproj.CopyComplete
+M:\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\refint\CommunityAdministration.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.pdb
+M:\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.genruntimeconfig.cache
+M:\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\ref\CommunityAdministration.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\AutoMapper.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\BusinessLogic.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\DataAccess.dll
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\BusinessLogic.pdb
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\DataAccess.pdb
+M:\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\CommunityAdministration.staticwebassets.runtime.json
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\appsettings.Development.json
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\appsettings.json
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\CommunityAdministration.staticwebassets.runtime.json
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\CommunityAdministration.exe
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\CommunityAdministration.deps.json
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\CommunityAdministration.runtimeconfig.json
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\CommunityAdministration.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\CommunityAdministration.pdb
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\AutoMapper.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\BusinessLogic.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\DataAccess.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\BusinessLogic.pdb
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\bin\Debug\net6.0\DataAccess.pdb
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.csproj.AssemblyReference.cache
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.GeneratedMSBuildEditorConfig.editorconfig
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.AssemblyInfoInputs.cache
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.AssemblyInfo.cs
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.csproj.CoreCompileInputs.cache
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.MvcApplicationPartsAssemblyInfo.cs
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.MvcApplicationPartsAssemblyInfo.cache
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\staticwebassets\msbuild.CommunityAdministration.Microsoft.AspNetCore.StaticWebAssets.props
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\staticwebassets\msbuild.build.CommunityAdministration.props
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CommunityAdministration.props
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CommunityAdministration.props
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\staticwebassets.pack.json
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\staticwebassets.build.json
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\staticwebassets.development.json
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\scopedcss\bundle\CommunityAdministration.styles.css
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.csproj.CopyComplete
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\refint\CommunityAdministration.dll
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.pdb
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.genruntimeconfig.cache
+E:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\ref\CommunityAdministration.dll
+F:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.dll
+F:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\refint\CommunityAdministration.dll
+F:\FINAL PROJECT\Final Project\CommunityAdministration\CommunityAdministration\obj\Debug\net6.0\CommunityAdministration.pdb
