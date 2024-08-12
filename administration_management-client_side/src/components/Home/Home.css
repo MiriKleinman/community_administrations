@@ -1,0 +1,35 @@
+#title {
+    color: var(--purple-text, #262041);
+    text-align: right;
+    font-size: 36px;
+    font-family: 'Noto Sans Hebrew';
+    font-weight: 700;
+    position: absolute;
+    right: 30%;
+    margin-top: 3%;
+}
+
+#impression {
+    background: var(--gray, #EEF2FA);
+    width: 1056px;
+    height: 769px;
+    flex-shrink: 0;
+    right: 50%;
+    left: 20%;
+    top: 15%;
+    position: absolute;
+}
+#textImpression {
+    color: var(--purple-text, #262041);
+    text-align: right;
+    font-size: 20px;
+    font-family: 'Noto Sans Hebrew';
+    font-weight: 600;
+    line-height: 150%;
+    margin-right: 4%;
+}
+
+li {
+    font-family: 'Noto Sans Hebrew';
+    margin-right:3%;
+}

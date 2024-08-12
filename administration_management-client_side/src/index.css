@@ -1,0 +1,8 @@
+.a{
+    position: absolute;
+    width: 185px;
+    height: 1035px;
+    right: 0px;
+    top: calc(50% - 1035px/2 - 0.5px);
+    background: #6450C8;
+    }

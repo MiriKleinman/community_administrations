@@ -1,0 +1,15 @@
+.messages{
+    height: 80%;
+}
+.messageBlock {
+    border-radius: 8px;
+    background: var(--gray, #F7FAFF);
+    box-shadow: 1.5px 1.5px 8px 0px rgba(0, 0, 0, 0.07);
+    padding: 12px 16px;
+    margin-top: 10%;
+    width: 70%;
+    margin-left: 14%;
+    font-family: 'Noto Sans Hebrew';
+    color: var(--gray-text, #666476);
+    font-size: smaller;
+}

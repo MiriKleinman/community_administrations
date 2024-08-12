@@ -1,0 +1,114 @@
+.titleActivityView {
+    color: var(--purple-text, #262041);
+    text-align: right;
+    font-size: 30px;
+    font-family: 'Noto Sans Hebrew';
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: -0.66px;
+    position: absolute;
+    right: 15%;
+    top: 8%;
+}
+
+.activityDescription {
+    color: var(--purple-text, #262041);
+    text-align: right;
+    font-size: 20px;
+    font-family: 'Noto Sans Hebrew';
+    font-weight: 500;
+    line-height: 150%;
+    letter-spacing: -0.66px;
+    position: absolute;
+    right: 15%;
+    top: 15%;
+}
+
+.activityDescIcon {
+    width: 23px;
+    height: 23px;
+    position: absolute;
+    right: 15%;
+    top: 18%;
+}
+
+.countOfRegisteredsActivityIcon {
+    width: 25px;
+    height: 16px;
+    position: absolute;
+    right: 23.5%;
+    top: 20%;
+}
+
+.costActivityIcon {
+    position: absolute;
+    right: 15%;
+    top: 20%;
+}
+
+.costDetailsActivity {
+    right: 16.5%;
+    top: 20%;
+    font-family: 'Noto Sans Hebrew';
+    position: absolute;
+}
+
+.countOfParticipantsActivity {
+    right: 25%;
+    top: 20%;
+    position: absolute;
+    font-family: 'Noto Sans Hebrew';
+}
+
+.dateIcon {
+    right: 15%;
+    top: 24%;
+    position: absolute;
+}
+
+.activityDate {
+    right: 16.5%;
+    top: 24%;
+    font-family: 'Noto Sans Hebrew';
+    position: absolute;
+}
+
+.activityTimeIcon {
+    right: 23.5%;
+    top: 24%;
+    position: absolute;
+}
+
+.activitytime {
+    right: 25%;
+    top: 24%;
+    font-family: 'Noto Sans Hebrew';
+    position: absolute;
+}
+
+.addParticipantBtn {
+    color: var(--purple, #6450C8);
+    text-align: right;
+    font-size: 15px;
+    font-family: 'Noto Sans Hebrew';
+    font-weight: 500;
+    line-height: 127.5%;
+    letter-spacing: 0.3px;
+    display: flex;
+    width: 200px;
+    height: 28px;
+    flex-direction: column;
+    right: 54.3%;
+    top: 22%;
+    position: absolute;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.editActivityIcon {
+    width: 15.103px;
+    height: 15.103px;
+    position: absolute;
+    right: 61.5%;
+    top: 22.4%;
+}

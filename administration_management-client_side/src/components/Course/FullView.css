@@ -1,0 +1,271 @@
+.bodyFullView {
+    background: var(--gray, #F5F9FF);
+    width: 1440px;
+    height: 1018px;
+    flex-shrink: 0;
+}
+
+.courseMessages {
+    width: 28%;
+    height: 100%;
+    top: 0.8%;
+    position: absolute;
+    background: var(--gray, #EEF2FA);
+}
+
+.title {
+    color: var(--purple-text, #262041);
+    text-align: right;
+    font-size: 30px;
+    font-family: 'Noto Sans Hebrew';
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: -0.66px;
+    position: absolute;
+    right: 15%;
+    top: 8%;
+}
+
+.operatorDetails {
+    position: absolute;
+    font-family: 'Noto Sans Hebrew';
+    font-size: 15px;
+    color: #666476;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    display: flex;
+    width: 200px;
+    height: 24px;
+    flex-direction: column;
+    color: var(--purple-text, #262041);
+    text-align: right;
+    font-size: 15px;
+    font-family: 'Noto Sans Hebrew';
+    font-weight: 500;
+    line-height: 127.5%;
+    letter-spacing: 0.3px;
+    right: 16.3%;
+    top: 18%;
+}
+
+.costDetails {
+    position: absolute;
+    font-family: 'Noto Sans Hebrew';
+    font-size: 15px;
+    color: #666476;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    display: flex;
+    width: 96px;
+    height: 24px;
+    flex-direction: column;
+    color: var(--purple-text, #262041);
+    text-align: right;
+    font-size: 15px;
+    font-family: 'Noto Sans Hebrew';
+    font-weight: 500;
+    line-height: 127.5%;
+    letter-spacing: 0.3px;
+    right: 16.5%;
+    top: 22.5%;
+}
+
+.countOfRegistereds {
+    position: absolute;
+    font-family: 'Noto Sans Hebrew';
+    font-size: 15px;
+    color: #666476;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    display: flex;
+    width: 190px;
+    height: 24px;
+    flex-direction: column;
+    color: var(--purple-text, #262041);
+    text-align: right;
+    font-size: 15px;
+    font-family: 'Noto Sans Hebrew';
+    font-weight: 500;
+    line-height: 127.5%;
+    letter-spacing: 0.3px;
+    right: 25%;
+    top: 18%;
+}
+
+.courseTime {
+    position: absolute;
+    font-family: 'Noto Sans Hebrew';
+    font-size: 15px;
+    color: #666476;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    display: flex;
+    width: 250px;
+    height: 24px;
+    flex-direction: column;
+    color: var(--purple-text, #262041);
+    text-align: right;
+    font-size: 15px;
+    font-family: 'Noto Sans Hebrew';
+    font-weight: 500;
+    line-height: 127.5%;
+    letter-spacing: 0.3px;
+    right: 25%;
+    top: 22.5%;
+}
+
+.profilIcon {
+    width: 23px;
+    height: 23px;
+    position: absolute;
+    right: 15%;
+    top: 18%;
+}
+
+.countOfRegisteredsIcon {
+    width: 25px;
+    height: 16px;
+    position: absolute;
+    right: 23.5%;
+    top: 18%;
+}
+
+.costIcon {
+    width: 23px;
+    height: 23px;
+    position: absolute;
+    right: 15%;
+    top: 22%;
+}
+
+.courseTimeIcon {
+    width: 23px;
+    height: 23px;
+    position: absolute;
+    right: 23.5%;
+    top: 22%;
+}
+
+.editIcon {
+    width: 15.103px;
+    height: 15.103px;
+    position: absolute;
+    right: 61%;
+    top: 22.4%;
+}
+
+.edit {
+    color: var(--purple, #6450C8);
+    text-align: right;
+    font-size: 15px;
+    font-family: 'Noto Sans Hebrew';
+    font-weight: 500;
+    line-height: 127.5%;
+    letter-spacing: 0.3px;
+    display: flex;
+    width: 47px;
+    height: 28px;
+    flex-direction: column;
+    right: 62.4%;
+    top: 22%;
+    position: absolute;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.addCourseRegistered{
+    color: var(--purple, #6450C8);
+    text-align: right;
+    font-size: 15px;
+    font-family: 'Noto Sans Hebrew';
+    font-weight: 500;
+    line-height: 127.5%;
+    letter-spacing: 0.3px;
+    display: flex;
+    width: 200px;
+    height: 28px;
+    flex-direction: column;
+    right: 53.6%;
+    top: 22%;
+    position: absolute;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.css-11xur9t-MuiPaper-root-MuiTableContainer-root {
+    top: 28% !important;
+}
+
+.notPaid {
+    border-radius: 6px;
+    border: none;
+    background: var(--purple-text, #C0B8E9);
+    display: flex;
+    height: 20px;
+    width: 80px;
+    padding: 3px 12px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: var(--black, #000);
+    text-align: right;
+    font-size: 11px;
+    font-family: 'Noto Sans Hebrew';
+    font-weight: 600;
+    line-height: 148.5%;
+    left: 50%;
+    top: 30%;
+}
+
+.paid {
+    border-radius: 6px;
+    border: none;
+    background: var(--dark-gray, #E1DFEA);
+    display: flex;
+    height: 20px;
+    width: 80px;
+    padding: 3px 12px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: var(--black, #000);
+    text-align: right;
+    font-size: 11px;
+    font-family: 'Noto Sans Hebrew';
+    font-weight: 600;
+    line-height: 148.5%;
+    left: 50%;
+    top: 30%;
+}
+
+.css-1ex1afd-MuiTableCell-root {
+    font-size: 13px !important;
+    color: var(--black, #000) !important;
+}
+
+.css-heg063-MuiTabs-flexContainer {
+    background-color: var(--gray, #EEF2FA) !important;
+    top: 12% !important;
+}
+
+.css-jpln7h-MuiTabs-scroller {
+    display: inline-block;
+    -webkit-flex: 1 1 auto;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    white-space: nowrap;
+    overflow-x: hidden;
+    width: 100%;
+    background-color: var(--gray, #EEF2FA) !important;
+    top: 20% !important;
+}
+
+.closePageIcon {
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+    margin-top: 2%;
+    margin-left: 2%;
+}

@@ -1,0 +1,47 @@
+#iconPlayingCenter{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    right: 15%;
+    top: 8%;
+    bottom: 0%;
+}
+#title {
+    right: 14%;
+    top: 10%;
+    width: 250px;
+    height: 27px;
+    bottom: 0%;
+    position: absolute;
+    font-family: 'Noto Sans Hebrew';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 150%;
+    text-align: center;
+    color: #666476;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+#subTitle {
+    right: 14.2%;
+    top: 14%;
+    width: 292px;
+    height: 14px;
+    position: absolute;
+    font-family: 'Noto Sans Hebrew';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.022em;
+    color: #ADABBB;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
